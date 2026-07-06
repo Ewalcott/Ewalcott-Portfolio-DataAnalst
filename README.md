@@ -39,7 +39,9 @@ I’m building my portfolio to show the projects I created during my Data Analys
 
 - [Power BI] - Construct functional reporting dashboards to deliver clear data insight. [View Project](Link)
   
-- [SQL] - SQL use numeric filtering, calculations and functions to extract targeted datasets. [View Project](sql examples queries)
+- [SQL] - SQL use numeric filtering, calculations and functions to extract targeted datasets.
+  
+[sql examples queries](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/ea0e32491668e8b7cb81d4f035367adef32f56fa/sql%20examples%20queries)
 
 - [Python] - Use Pandas and numpy to apply on datasets. [View Project](python coding)
 
