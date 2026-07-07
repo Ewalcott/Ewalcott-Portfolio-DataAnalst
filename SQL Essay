@@ -1,0 +1,80 @@
+Day 4 Task 1 
+ 
+In your groups, discuss and complete the below activity. You can either nominate one writer or split the elements between you. Everyone however must have the completed work below: 
+Imagine you have been hired by a small retail business that wants to streamline its operations by creating a new database system. This database will be used to manage inventory, sales, and customer information. The business is a small corner shop that sells a range of groceries and domestic products. It might help to picture your local convenience store and think of what they sell. They also have a loyalty program, which you will need to consider when deciding what tables to create.  
+ 
+Write a 400 to 500-word (in total) essay/report explaining the steps you would take to set up and create this database. Your essay should cover the following points: 
+ 
+    1. Understanding the Business Requirements: 
+ 
+    1. What kind of data will the database need to store? Inventory (SKU - product name, product category, price, stock count, supplier ID) ; SKU - sales (transaction ID, transaction date, quantity, customer ID and supplier ID); Suppliers SKU (supplier ID, supplier name, supplier contact details), customer info SKU (customer ID, name, address, contact number, email, membership status, points total), loyalty (membership no).  
+ 
+Note: SKU, in this case are fields in a table. 
+ 
+    2. Who will be the users of the database, and what will they need to accomplish? 
+ 
+    2. Designing the Database Schema: 
+ 
+    1. How would you structure/design the database tables to efficiently store inventory, sales, and customer information? Can you create a simple design it in Word doc.? 
+ 
+    2. What type of relationship/s between tables are necessary (and can you mention the PK and FK keys) (e.g., how sales relate to inventory and customers)? 
+ 
+    3. Implementing the Database: 
+ 
+    1. What SQL commands would you use to create the database and its tables? Top 4 or 5 queries. 
+ 
+    2. Provide examples of SQL statements for creating tables and defining relationships between them. Top 4 or 5. 
+ 
+    4. Populating the Database: 
+ 
+    1. How would you input initial data into the database tables? Can you give examples of SQL INSERT or and VALUES statements. 
+ 
+    5. Maintaining the Database: 
+ 
+    1. What measures would you take to ensure the database remains accurate and up to date? 
+ 
+    2. How would you handle backups and data security? 
+
+------------------------------------------------------------------------------------------------------------------------------
+Your essay/report should include specific examples of SQL commands and explain why each step is necessary for creating a functional and efficient database for the retail business. 
+
+To create a new database system for this retailer, I would first of all need to consider the data that would need to be collected and stored. This would include details of suppliers, customers, products (including stock levels) and individual sales transactions, and link it to their loyalty scheme. 
+ The users of the database would be a table for each to include the contact of suppliers, 
+    • supplier table – supplier id, supplier name
+    • customers table – customer id, customer name, email, member status
+    • membership/loyalty table – customer id,  loyalty number, points
+    • products table – product id, product name, product category, supplier id, number of products, products sold
+    • sales transactions – customer id and sales id, total sales
+
+ The users of the database will be the owner, managers, stock operator, authorised person who is allowed to access the database to change. They will need to update ans management the products, add new or restock for each large sale. Analyse the transactions list to ensure there are existing continuos customers, and track new customers. 
+To efficient store inventory, a relational database is effective. This is to ensure the sales and the customers information can compare on number of sales per customer. scheme could be used with a fact table of Sale_Details, dimension tables of Products, Sales and Customers, and a subdimension table from Products of Suppliers. As shown in the ERD, the bold fields would be the primary keys and the italicised fields would be the foreign keys, providing the relationship links between the tables for example the product table will store all inventory items to link to suppliers table to track which supplier provides the product. 
+One customer can make many ale transactions over time but each sale belong to one customer. 
+
+To create the database, tables and their relationships, the following SQL statements could be used:  
+ A customer id is the primary key in the customer, also customer id is in the sales table as a foreign key. 
+Product id is PK and product id is FK in the sales table.
+Supplier id is the PK in supplier table and supplier id is FK in the product table.
+
+CREATE TABLE ….. place SQL query here:
+create table customers ( customer id, customer name, email, membership status, points total, membership number);
+create table suppliers ( supplier id, supplier name VARCHAR (100), contact details varchar (100)
+create table product ( product id, product name varchar(100), product category varchar(50), price, stock number);
+create table sales ( sales id, sales date, customer id, supplier id);
+
+here are the sql statements to add in my database with using the daata from the small buiness:
+
+- for the customer table:
+INSERT INTO Customers (CustomerID, CustomerName, MembershipNo, PointsTotal) VALUES (1, 'Alice Smith', 'MEM8831', 150)
+
+- for the supplier table: 
+INSERT INTO Suppliers (SupplierID, SupplierName, supplier Contact) VALUES (101, 'Corner Shop Wholesalers Ltd', '0113 496 0123')
+
+- for the product table: 
+INSERT INTO Products (product id, ProductName, Price, product number, SupplierID) VALUES ('PROD-MILK-01', ' Milk 2L', £1.65, 45, 102)
+
+- for the sql table:
+INSERT INTO Sales (sale ID, sale Date, number of sales, product id, CustomerID, SupplierID) VALUES (5001, '2026-06-11 08:30:00', 2, 'PROD-MILK-01', 1, 102)
+
+To ensure the database remains accurate and up to date, data validation methods would be used so the small business remain secure and useful for daily operations a transaction management is when a sales happen, the system mustlog the sale and remove the product item from the inventory list at the same time. 
+Users would need to login to the database to ensure names and prices must not be left blank and to check the prices and product numbers do not drop to 0. 
+ Handling the backups and the data security needs to be plan before and if the issue happens. Daily saving the database to ensure all data and information is saved throughout the day and hopefully nothing is lost. For data security only authorised personal may edit the database and handle the data within. For example retailers can only view products name, price and product number. Manager can only change the price of the product and view customer table. 
