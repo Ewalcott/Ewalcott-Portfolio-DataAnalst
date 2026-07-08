@@ -69,7 +69,7 @@ If you already have a PBI account, view and interact with this live dashboard he
 [sql examples queries](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/ea0e32491668e8b7cb81d4f035367adef32f56fa/sql%20examples%20queries)
 
 World database from the lab 7
- <img width="1152" height="688" alt="Excel_1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/e7ed69297a8bb59ddf5cff4c3d2665aa61631b0d/images/lab%207%202.png"/>
+ <img width="800" height="500" alt="Excel_1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/e7ed69297a8bb59ddf5cff4c3d2665aa61631b0d/images/lab%207%202.png"/>
 
 
 - **[Python]** - Using colab for introduction to python and use Pandas and numpy to apply on datasets.
@@ -80,7 +80,7 @@ World database from the lab 7
 
   [GPD (nominal) per Capita dataset assignment](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/cb2142348a1c488da90c11d600273feecec7f769/bootcamp_w6_d4_task_1.ipynb)
 
- [Student dataset visualisation](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/fc152e81ef2e7bac3c5490e94d7cb75d943acefb/bootcamp_w6_d4_task_2.ipynb)
+  [Student dataset visualisation](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/fc152e81ef2e7bac3c5490e94d7cb75d943acefb/bootcamp_w6_d4_task_2.ipynb)
 
 ---
   
