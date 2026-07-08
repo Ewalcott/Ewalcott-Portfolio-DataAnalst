@@ -1,4 +1,4 @@
-<img width="1280" height="320" alt="da-banner" src="https://github.com/user-attachments/assets/79557134-4e78-4b87-9d3f-481c65ddf64a" />
+<img width="800" height="212" alt="da-banner" src="https://github.com/user-attachments/assets/79557134-4e78-4b87-9d3f-481c65ddf64a" />
 
 # Data Analyst Course Portfolio
 
@@ -35,16 +35,16 @@ Driven and aspiring Data Analyst with skills in Excel and SQL. I’m building my
 
 - **[Excel]** – Data sorting, formatting, and creating formulas to build foundational spreadsheets.
   
-Using the SUM function in cell "P10"
+Using the SUM function - SUM() in cell "P10"
 
- <img width="500" height="300" alt="sum" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/34d3a20301cc9de24aa8838549a9fccdfe1eb52d/Screenshot%202026-07-07%20095300.png"/>
+ <img width="500" height="300" alt="sum" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/sum%20function.png?raw=true"/>
 
 Using the Average function in cell "P11"
 
  <img width="500" height="300" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/3cbe05c3c5181e5e48eaf52d61949b0fc5aae9c6/Screenshot%202026-07-07%20100109.png"/>
 
 
- <img width="1152" height="688" alt="Excel_1" src="https://github.com/user-attachments/assets/11eeea6e-2e60-4c5b-a356-ac2376c8833d" />
+ [Excel 1](https://github.com/user-attachments/assets/11eeea6e-2e60-4c5b-a356-ac2376c8833d")
 
 
 - **[Tableau]** - Use visulation tools to intercept data.
