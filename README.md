@@ -45,18 +45,19 @@ I’m building my portfolio to show the projects I created during my Data Analys
 
 - [Tableau] - Use visulation tools to intercept data.
 
-**Scenario**: I am data analyst working for a global health organisation. Your team needs to quickly understand key health trends and disparities across different countries and continents. They are particularly interested in seeing how health metrics vary and how life expectancy has changed over time. [Global Health Dashboard](https://public.tableau.com/app/profile/enestazia.walcott/viz/globalhealthdashboard/GlobalHealthInsight?publish=yes)
+This is a Spotify Music Analytics Dashboard (built in Tableau) that evaluates audio characteristics, artist performance, track popularity, and user engagement metrics across different musical genres.
+
+ <img width="1152" height="688" alt="Excel_1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/c1fe7e8bd9c47019c2217ec8c633ef1cbfbc1269/spotify%20db.png" />
+
+If you have a Tableau account, view the live dashboard here
+[Spotify trend Dashboard](https://public.tableau.com/app/profile/enestazia.walcott/viz/spotifyfeatures/Dashboard1?publish=yes)
 
 - [Power BI] - using XtremeLabs to construct functional reporting dashboards to deliver clear data insight.
 
+This is a Retail sales performance dashboard, that tracks key business data like sales revenue, customer purchase trends, product categories, and geographical performance.
 <img width="1152" height="688" alt="dashboard bi" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/e565142756c271746b10b256dffcc78d7becbd09/dashboard%20bi.png"/>
 
-If you already have a PBI account, view and interact with this live dashboard here.
-[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmIzN2I3NDAtN2NjZi00MzJlLWJkNzUtODAxMGY3ZTY5YjQ1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
-
-[Lab 2 - Load transform data](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/0889662350422acfa8e8b94db1bf2d51bf084ccb/Screenshot%202026-07-07%20110312.png)
-
-[lab 7 Design a report](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/tree/6f78cc92c7dc2f78e110a18b3c7d9cffe454259d/images)
+If you already have a PBI account, view and interact with this live dashboard here. [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmIzN2I3NDAtN2NjZi00MzJlLWJkNzUtODAxMGY3ZTY5YjQ1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
   
 - [SQL] - SQL use numeric filtering, calculations and functions to extract targeted datasets.
   
