@@ -80,7 +80,7 @@ World database from the lab 7
 
 - **[Python]** - Using colab for introduction to python and use Pandas and numpy to apply on datasets.
 
-  [Python codes](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/b28882c1e6fd42db9156b794713553394a125f17/python%20coding)
+  [Python codes](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/67678e7886acf1215f1d2ab1c150525388be3308/Python_coding.ipynb)
 
   [Student dataset assignment](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/1974a628db235e4a4164acc17faf48144aae319d/day_3_task_1_pynb.ipynb)
 
