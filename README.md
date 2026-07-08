@@ -41,10 +41,10 @@ Using the SUM function is =SUM(j2:j1001) in cell "P10"
 
 Using the Average function is =AVERAGE(J2:J1001) in cell "P11"
 
- <img width="400" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/Excel_1.png?raw=true"/>
+ <img width="400" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/Screenshot%202026-07-07%20100109.png?raw=true"/>
 
 
- [Excel 1](https://github.com/user-attachments/assets/11eeea6e-2e60-4c5b-a356-ac2376c8833d")
+ [Excel 1](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/Excel_1.png?raw=true)
 
 
 - **[Tableau]** - Use visulation tools to intercept data.
