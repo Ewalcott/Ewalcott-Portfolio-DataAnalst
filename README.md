@@ -68,7 +68,8 @@ If you already have a PBI account, view and interact with this live dashboard he
   
 [sql examples queries](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/ea0e32491668e8b7cb81d4f035367adef32f56fa/sql%20examples%20queries)
 
-[World database images](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/tree/d03ef63bebeb073ddaf4b92650cca017e9b1bd83/sql%20images)
+World database from the lab 7
+ <img width="1152" height="688" alt="Excel_1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/e7ed69297a8bb59ddf5cff4c3d2665aa61631b0d/images/lab%207%202.png"/>
 
 
 - **[Python]** - Using colab for introduction to python and use Pandas and numpy to apply on datasets.
