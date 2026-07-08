@@ -44,7 +44,7 @@ Using the Average function is =AVERAGE(J2:J1001) in cell "P11"
  <img width="400" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/Screenshot%202026-07-07%20100109.png?raw=true"/>
 
 
- [Excel 1](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/Excel_1.png?raw=true)
+ [Excel Sheet](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/a98b924d76d7254cb5514a458665ca3561a3ad21/Excel_1.png)
 
 
 - **[Tableau]** - Use visulation tools to intercept data.
