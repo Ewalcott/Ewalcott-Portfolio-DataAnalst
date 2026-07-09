@@ -43,7 +43,7 @@ Using the Average function is =AVERAGE(J2:J1001) in cell "P11"
 
  <img width="400" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/Screenshot%202026-07-07%20100109.png?raw=true"/>
 
-[retail sales](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/a98b924d76d7254cb5514a458665ca3561a3ad21/Excel_1.png)
+[Retail sales sheet](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/a98b924d76d7254cb5514a458665ca3561a3ad21/Excel_1.png)
 
 ---
 
