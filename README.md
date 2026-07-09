@@ -88,11 +88,12 @@ This database I had to navigated through within XtremeLabs, this demonstrates ho
 
 
 
+Below are Google Collab Dataset links used for Python learning, to use basic python coding to understand what they do and display the ouputs:
 [Student dataset assignment](https://colab.research.google.com/github/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/bootcamp_w6_d4_task_1.ipynb#scrollTo=01SsrGhcDXeb)
 
-[GPD (nominal) per Capita dataset assignment](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/cb2142348a1c488da90c11d600273feecec7f769/bootcamp_w6_d4_task_1.ipynb)
+[GPD (nominal) per Capita dataset assignment](https://colab.research.google.com/github/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/bootcamp_w6_d4_task_1.ipynb)
 
-[Student dataset visualisation](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/fc152e81ef2e7bac3c5490e94d7cb75d943acefb/bootcamp_w6_d4_task_2.ipynb)
+[Student dataset - Using python to tranform information to data visualisations](https://colab.research.google.com/github/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/bootcamp_w6_d4_task_2.ipynb)
 
 ---
   
