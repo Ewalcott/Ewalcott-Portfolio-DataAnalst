@@ -43,7 +43,7 @@ Using the Average function is =AVERAGE(J2:J1001) in cell "P11"
 
  <img width="400" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/Screenshot%202026-07-07%20100109.png?raw=true"/>
 
-<img width="400" height="200" alt="excel 1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/a98b924d76d7254cb5514a458665ca3561a3ad21/Excel_1.png"/>
+<img width="400" height="210" alt="excel 1" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/a98b924d76d7254cb5514a458665ca3561a3ad21/Excel_1.png"/>
 
 ---
 
@@ -51,7 +51,7 @@ Using the Average function is =AVERAGE(J2:J1001) in cell "P11"
 
 This is a Spotify Music Analytics Dashboard that evaluates audio characteristics, artist performance, track popularity, and user engagement trends across different musical genres.
 
-<img width="800" height="212" alt="sum" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/spotify%20db.png?raw=true"/>
+<img width="800" height="210" alt="sum" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/spotify%20db.png?raw=true"/>
 
 If you have a Tableau account, view the live dashboard here
 [Spotify trend Dashboard](https://public.tableau.com/app/profile/enestazia.walcott/viz/spotifyfeatures/Dashboard1?publish=yes)
@@ -73,7 +73,7 @@ If you already have a PBI account, view and interact with this live dashboard he
 [SQL examples queries](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/1c9fe5b2b624ef8a2da3a27adfdf1f98ef306a6a/SQL_example_queries.txt)
 
 World database from the lab 7
- <img width="800" height="500" alt="LAB 7" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/e7ed69297a8bb59ddf5cff4c3d2665aa61631b0d/images/lab%207%202.png"/>
+ <img width="800" height="210" alt="LAB 7" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/e7ed69297a8bb59ddf5cff4c3d2665aa61631b0d/images/lab%207%202.png"/>
 
 ---
 
