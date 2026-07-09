@@ -33,7 +33,7 @@ Driven and aspiring Data Analyst with skills in Excel and SQL. I’m building my
 
 <hr style="background-color: #9b59b6; height: 3px; border: none;">
 
-- **[Excel]** – Data sorting, formatting, and creating formulas to build foundational spreadsheets.
+**Excel** – Data sorting, formatting, and creating formulas to build foundational spreadsheets.
   
 Using the SUM function is =SUM(j2:j1001) in cell "P10"
 
@@ -43,48 +43,56 @@ Using the Average function is =AVERAGE(J2:J1001) in cell "P11"
 
  <img width="400" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/Screenshot%202026-07-07%20100109.png?raw=true"/>
 
-[Retail sales sheet](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/a98b924d76d7254cb5514a458665ca3561a3ad21/Excel_1.png)
+This is the retail sales dataset for the fiest project to understand excel function as seen above and know how to navigate the informaion by applying a table format and filter. The is to create total sales column and calculation for a real busines scenario to understand the outcome of the retail produduction.
+ <img width="1100" height="600" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/a98b924d76d7254cb5514a458665ca3561a3ad21/Excel_1.png" />
 
 ---
 
-- **[Tableau]** - Use visulation tools to intercept data.
+**Tableau** - Use visulation tools to intercept data.
 
 This is a Spotify Music Analytics Dashboard that evaluates audio characteristics, artist performance, track popularity, and user engagement trends across different musical genres.
 
-[Spotify dashboard](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/spotify%20db.png?raw=true)
+ <img width="800" height="350" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/spotify%20db.png?raw=true" />
 
 If you have a Tableau account, view the live dashboard here
 [Spotify trend Dashboard](https://public.tableau.com/app/profile/enestazia.walcott/viz/spotifyfeatures/Dashboard1?publish=yes)
 
 ---
 
-- **[Power BI]** - using XtremeLabs to construct functional reporting dashboards to deliver clear data insight.
+**Power BI** - Using XtremeLabs to construct functional reporting dashboards to deliver clear data insight.
 
 This is a Retail sales performance dashboard, that tracks key business data like sales revenue, customer purchase trends, product categories, and geographical performance.
 
-[Retail sales dashboard](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/dashboard%20bi.png?raw=true)
+ <img width="800" height="350" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/dashboard%20bi.png?raw=true" />
 
 If you already have a PBI account, view and interact with this live dashboard here. [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmIzN2I3NDAtN2NjZi00MzJlLWJkNzUtODAxMGY3ZTY5YjQ1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 ---
   
-- **[SQL]** - SQL use numeric filtering, calculations and functions to extract targeted datasets.
+**SQL** - Learning SQL workbench to use numeric filtering, calculations and functions to extract targeted datasets.
   
-[SQL examples queries](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/1c9fe5b2b624ef8a2da3a27adfdf1f98ef306a6a/SQL_example_queries.txt)
+Using basic SQL codes to understand on what it does, how to use when getting specfic information from the dataset, using the World dataset to know what the lif expentency and poplulation from each country.
 
-[World database from the lab 7](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/e7ed69297a8bb59ddf5cff4c3d2665aa61631b0d/images/lab%207%202.png)
+ <img width="400" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/sql%20images/Screenshot%202026-07-07%20154559.png?raw=true" />
+
+  <img width="400" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/sql%20images/Screenshot%202026-07-07%20154705.png?raw=true"/>
+
+This database I had to navigated through within XtremeLabs, this demonstrates how to calculate information like profit directly within a specific chart or table, able to modify the main database, similar to adding a quick formula in Excel. 
+ <img width="800" height="300" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/e7ed69297a8bb59ddf5cff4c3d2665aa61631b0d/images/lab%207%202.png" />
+
+  <img width="400" height="210" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/images/lab%207%204.png?raw=true" />
 
 ---
 
-- **[Python]** - Using colab for introduction to python and use Pandas and numpy to apply on datasets.
+**[Python]** - Using colab for introduction to python and use Pandas and numpy to apply on datasets.
 
-  [Python codes](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/67678e7886acf1215f1d2ab1c150525388be3308/Python_coding.ipynb)
 
-  [Student dataset assignment](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/1974a628db235e4a4164acc17faf48144aae319d/day_3_task_1_pynb.ipynb)
 
-  [GPD (nominal) per Capita dataset assignment](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/cb2142348a1c488da90c11d600273feecec7f769/bootcamp_w6_d4_task_1.ipynb)
+[Student dataset assignment](https://colab.research.google.com/github/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/bootcamp_w6_d4_task_1.ipynb#scrollTo=01SsrGhcDXeb)
 
-  [Student dataset visualisation](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/fc152e81ef2e7bac3c5490e94d7cb75d943acefb/bootcamp_w6_d4_task_2.ipynb)
+[GPD (nominal) per Capita dataset assignment](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/cb2142348a1c488da90c11d600273feecec7f769/bootcamp_w6_d4_task_1.ipynb)
+
+[Student dataset visualisation](https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/fc152e81ef2e7bac3c5490e94d7cb75d943acefb/bootcamp_w6_d4_task_2.ipynb)
 
 ---
   
@@ -109,5 +117,5 @@ The 8-week bootcamp provides a baseline knowledge into employer-ready expertise.
 
 <hr style="background-color: #9b59b6; height: 3px; border: none;">
 
-- LinkedIn: [Enestazia Linkedin](https://www.linkedin.com/in/enestizia-w-3b2ba8165)
+- [Linkedin](https://www.linkedin.com/in/enestizia-w-3b2ba8165)
 
