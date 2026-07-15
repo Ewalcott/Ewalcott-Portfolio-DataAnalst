@@ -1,6 +1,6 @@
 <img width="800" height="212" alt="da-banner" src="https://github.com/user-attachments/assets/79557134-4e78-4b87-9d3f-481c65ddf64a" />
 
-# Data Analyst Course Portfolio
+# Data Analyst Portfolio
 
 ## 👋Hi, I’m Enestazia, 
 **Data Technician Skills Bootcamp Graduate**
