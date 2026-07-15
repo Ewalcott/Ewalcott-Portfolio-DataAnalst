@@ -85,7 +85,7 @@ This database I had to navigated through within XtremeLabs, this demonstrates ho
 
 ---
 
-**[Python]** - Using colab for introduction to python and use Pandas and numpy to apply on datasets.
+**Python** - Using colab for introduction to python and use Pandas and numpy to apply on datasets.
 
 
 
