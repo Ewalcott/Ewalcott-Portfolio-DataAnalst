@@ -45,7 +45,7 @@ Using the Average function is =AVERAGE(J2:J1001) in cell "P11"
 
 This is the retail sales dataset for the fiest project to understand excel function as seen above and know how to navigate the informaion by applying a table format and filter. The is to create total sales column and calculation for a real busines scenario to understand the outcome of the retail produduction.
 
- <img width="1100" height="600" alt="excel 1" src="https://github.com/Ewalcott/Portfolio-DataAnalyst/blob/main/Excel_1.png?raw=true" />
+ <img width="800" height="600" alt="Excel 1" src="https://github.com/Ewalcott/Portfolio-DataAnalyst/blob/main/Excel_1.png?raw=true" />
 
 ---
 
@@ -53,7 +53,7 @@ This is the retail sales dataset for the fiest project to understand excel funct
 
 This is a Spotify Music Analytics Dashboard that evaluates audio characteristics, artist performance, track popularity, and user engagement trends across different musical genres.
 
- <img width="800" height="350" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/spotify%20db.png?raw=true" />
+ <img width="800" height="350" alt="dashboard" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/spotify%20db.png?raw=true" />
 
 If you have a Tableau account, view the live dashboard here
 [Spotify trend Dashboard](https://public.tableau.com/app/profile/enestazia.walcott/viz/spotifyfeatures/Dashboard1?publish=yes)
