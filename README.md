@@ -64,7 +64,7 @@ If you have a Tableau account, view the live dashboard here
 
 This is a Retail sales performance dashboard, that tracks key business data like sales revenue, customer purchase trends, product categories, and geographical performance.
 
- <img width="800" height="350" alt="average" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/dashboard%20bi.png?raw=true" />
+ <img width="800" height="350" alt="dashboard 2" src="https://github.com/Ewalcott/Ewalcott-Portfolio-DataAnalst/blob/main/dashboard%20bi.png?raw=true" />
 
 If you already have a PBI account, view and interact with this live dashboard here. [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmIzN2I3NDAtN2NjZi00MzJlLWJkNzUtODAxMGY3ZTY5YjQ1IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
